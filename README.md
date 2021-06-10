@@ -1,14 +1,14 @@
 # Matplotlib Challenge
 ## Matplotlib Homework - The Power of Plots
---
+
+-----
 ### Task
 
 In this task we are working for Pymacceuticals Inc. a company that specicialises in anti-cancer pharmaceuticals. The most recent animal study consisted of 249 mice with a SCC (squamous cell carcinoma) tumor growth that have been treated with a variety of drug regimens. Over 45 days, tumor development was observed and measured and we have been asked to analyse the data. Predominately, we have been asked to compare the performance of the drug Capomulin against the other treatment regimens. 
 
 We have been given 2 csv files to work with - _Mouse_metadata.csv_ and _study_results.csv_
 
---
-
+----
 ### Method
 
 To start the analysis the 2 csv files are merged into one data set.
@@ -46,8 +46,7 @@ A number of different methods were used to complete the graphs, these include:
 
 Note: For further detail regarding how each method was used, please refer to the comments within the pymaceuticals_start jupyter notebook. 
 
---
-
+----
 ### Results
 
 After completing the analysis the below observations have been made:
@@ -75,8 +74,7 @@ After completing the analysis the below observations have been made:
 
 ![X401 graph](https://user-images.githubusercontent.com/82348616/121468734-a4e0bc80-c9fe-11eb-80ce-dd11f5280c4e.PNG)
 
---
-
+----
 ### Files
 
 
