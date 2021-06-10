@@ -12,7 +12,7 @@ We have been given 2 csv files to work with - _Mouse_metadata.csv_ and _study_re
 ### Method
 
 To start the analysis the 2 csv files are merged into one data set.
-We then want to check for an duplicate entries in the data set so our analysis is based on accurate data. Upon checking the data set, 249 mice were identified but 1 of the mice had duplicate timepoints. All data associated to the duplicated mouse was removed from the data set resulting in the analysis of 248 mice.
+We then want to check for any duplicate entries in the data set so our analysis is based on accurate data. Upon checking the data set, 249 mice were identified but 1 of the mice had duplicate timepoints. All data associated to the duplicated mouse was removed from the data set resulting in the analysis of 248 mice.
 
 To start the analysis we created a summary statistics able of the mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
 To do this we used the below methods:
@@ -23,9 +23,10 @@ To do this we used the below methods:
 * .std() - to calculate the standard deviation.
 * .sem() - to calculate the SEM.
 
-Then we generated a number of graphs to get a visual representation of the data.
+Then we generated a number of graphs to get a visual representation of the data. 
+Details on the graphs are below:
 
-* Based on all mice tested, a bar graph was created showing the total number of timepoints for each drug regimen.
+* A bar graph was completed showing the total number of timepoints for each drug regimen for all mice tested.
 * A pie graph was completed showing the gender distribution of the study.
 * A boxplot on Tumor Volume was completed for 4 treatments - Capomulin, Ramicane, Infubinol, and Ceftamin.
 * A line chart to show tumor volume by timepoint for a single mouse from the Capomulin treatment group.
@@ -44,7 +45,7 @@ A number of different methods were used to complete the graphs, these include:
 * .append() - to add data to a list.
 * Plus a number of graph related methods to assign graph labels and legends and to create the graph.
 
-Note: For further detail regarding how each method was used, please refer to the comments within the pymaceuticals_start jupyter notebook. 
+Note: For further detail regarding how each method was used, please refer to the comments within the pymaceuticals_starter jupyter notebook. 
 
 ----
 ### Results
