@@ -1,7 +1,7 @@
 # Matplotlib Challenge
 ## Matplotlib Homework - The Power of Plots
 
------
+---
 ### Task
 
 In this task we are working for Pymacceuticals Inc. a company that specicialises in anti-cancer pharmaceuticals. The most recent animal study consisted of 249 mice with a SCC (squamous cell carcinoma) tumor growth that have been treated with a variety of drug regimens. Over 45 days, tumor development was observed and measured and we have been asked to analyse the data. Predominately, we have been asked to compare the performance of the drug Capomulin against the other treatment regimens. 
@@ -77,6 +77,8 @@ After completing the analysis the below observations have been made:
 ----
 ### Files
 
+To run the code and view the results, please use the *pymaceuticals_starter.ipynb*  file located in the main branch of this repository.
+The main branch of this repository also contains a folder called _data_ which contains the csv files used in the data and this ReadMe file.
 
 
 
